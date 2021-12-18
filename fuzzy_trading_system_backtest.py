@@ -11,7 +11,7 @@ import datetime as dt
 
 plt.style.use('fivethirtyeight')
 
-ticker = 'SLB'
+ticker = 'DASH-USD'
 start = dt.datetime(2010, 1, 1)
 end = dt.datetime(2021, 12, 1)
 
