@@ -168,6 +168,7 @@ out_bearish_weak = fmaxRules([bearish_rule1, bearish_rule2, bearish_rule3, beari
 out_bearish_strong = fmaxRules([bearish_rule11, bearish_rule12, bearish_rule15, bearish_rule19])
 out_bearish_verystrong = fmaxRules([bearish_rule10, bearish_rule13])
 
+
 #graph results-----
 bullish_bearish0 = np.zeros_like(x_bullish)
 
